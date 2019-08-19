@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 """
-
 import pandas as pd
 import itertools
 
@@ -43,4 +42,3 @@ if __name__=="__main__":
     res2 = swapCol(df1,['Source','Target','Mid'],'Value')
     print(res1)
     print(res2)
-#dff.drop_duplicates(0)
