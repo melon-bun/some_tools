@@ -42,3 +42,4 @@ if __name__=="__main__":
     res2 = swapCol(df1,['Source','Target','Mid'],'Value')
     print(res1)
     print(res2)
+    print('test')
